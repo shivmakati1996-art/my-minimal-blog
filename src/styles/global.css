@@ -35,3 +35,8 @@
 :target {
   scroll-margin-block: 1rem;
 }
+
+body {
+  font-family: 'Hind Vadodara', 'Hind', sans-serif;
+  font-weight: 600;
+}
