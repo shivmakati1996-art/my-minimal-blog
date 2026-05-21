@@ -2,14 +2,14 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
-    profile: "https://satna.ing",
+    url: "https://clarity-1.netlify.app/",
+    title: "Clarity",
+    description: "Useful and entertaining blog to introduce clarity in your mind.",
+    author: "Shiv Makati",
+    profile: "https://www.facebook.com/makatishiv/",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "Asia/Bangkok",
+    timezone: "Asia/Kolkata",
     dir: "ltr",
   },
   posts: {
